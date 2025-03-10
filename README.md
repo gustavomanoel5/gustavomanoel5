@@ -6,7 +6,7 @@
 ## Linguagens e ferramentas 💻:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,markdown,git,notion,github,windows,java,c,javascript,androidstudio,kotlin,firebase,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,markdown,git,notion,github,windows,java,c,javascript,androidstudio,kotlin,firebase,react,pycharm&theme=dark" />
 </div>
 
 ## Sobre mim:
